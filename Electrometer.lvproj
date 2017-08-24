@@ -13,10 +13,9 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Test" Type="Folder">
 			<Item Name="test.vi" Type="VI" URL="../Test/test.vi"/>
-			<Item Name="initialConf.vi" Type="VI" URL="../Test/initialConf.vi"/>
+			<Item Name="testPerformZeroCorrection.vi" Type="VI" URL="../Test/testPerformZeroCorrection.vi"/>
 		</Item>
 		<Item Name="Keithley" Type="Folder">
-			<Item Name="Error Query.vi" Type="VI" URL="../Keithley/Error Query.vi"/>
 			<Item Name="Parse Readings.vi" Type="VI" URL="../Keithley/Parse Readings.vi"/>
 		</Item>
 		<Item Name="Electrometer.lvclass" Type="LVClass" URL="../Electrometer/Electrometer.lvclass"/>
