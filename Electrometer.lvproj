@@ -13,7 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Test" Type="Folder">
 			<Item Name="test.vi" Type="VI" URL="../Test/test.vi"/>
-			<Item Name="testPerformZeroCorrection.vi" Type="VI" URL="../Test/testPerformZeroCorrection.vi"/>
+			<Item Name="test2.vi" Type="VI" URL="../Test/test2.vi"/>
 		</Item>
 		<Item Name="Keithley" Type="Folder">
 			<Item Name="Parse Readings.vi" Type="VI" URL="../Keithley/Parse Readings.vi"/>
