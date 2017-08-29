@@ -21,6 +21,7 @@
 		</Item>
 		<Item Name="Electrometer.lvclass" Type="LVClass" URL="../Electrometer/Electrometer.lvclass"/>
 		<Item Name="ElectrometerConfiguration.lvclass" Type="LVClass" URL="../ElectrometerConfiguration/ElectrometerConfiguration.lvclass"/>
+		<Item Name="setVSourceRange.vi" Type="VI" URL="../Electrometer/setVSourceRange.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
