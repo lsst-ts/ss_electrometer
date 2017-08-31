@@ -27,6 +27,7 @@
 		</Item>
 		<Item Name="Electrometer.lvclass" Type="LVClass" URL="../Electrometer/Electrometer.lvclass"/>
 		<Item Name="ElectrometerConfiguration.lvclass" Type="LVClass" URL="../ElectrometerConfiguration/ElectrometerConfiguration.lvclass"/>
+		<Item Name="GlobalVariables.vi" Type="VI" URL="../Electrometer/State/ReadingState/GlobalVariables.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
@@ -61,6 +62,7 @@
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
