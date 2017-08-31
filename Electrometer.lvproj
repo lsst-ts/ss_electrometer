@@ -19,6 +19,12 @@
 		<Item Name="Keithley" Type="Folder">
 			<Item Name="Parse Readings.vi" Type="VI" URL="../Keithley/Parse Readings.vi"/>
 		</Item>
+		<Item Name="State" Type="Folder">
+			<Item Name="State.lvclass" Type="LVClass" URL="../Electrometer/State/State.lvclass"/>
+			<Item Name="ReadyState.lvclass" Type="LVClass" URL="../Electrometer/State/ReadyState.lvclass"/>
+			<Item Name="ReadingState.lvclass" Type="LVClass" URL="../Electrometer/State/ReadingState.lvclass"/>
+			<Item Name="ConfiguringState.lvclass" Type="LVClass" URL="../Electrometer/State/ConfiguringState.lvclass"/>
+		</Item>
 		<Item Name="Electrometer.lvclass" Type="LVClass" URL="../Electrometer/Electrometer.lvclass"/>
 		<Item Name="ElectrometerConfiguration.lvclass" Type="LVClass" URL="../ElectrometerConfiguration/ElectrometerConfiguration.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
