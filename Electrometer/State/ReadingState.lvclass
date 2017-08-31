@@ -20,4 +20,13 @@
 	<Item Name="ReadingState.ctl" Type="Class Private Data" URL="ReadingState.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="stopReading.vi" Type="VI" URL="../ReadingState/stopReading.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'"!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!7&amp;%6M:7.U=G^N:82F=CZM&gt;G.M98.T!!!127RF9X2S&lt;WVF&gt;'6S)'^V&gt;!!!-E"Q!"Y!!"955G6B:'FO:V.U982F,GRW9WRB=X-!!""3:7&amp;E;7ZH5X2B&gt;'5A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$"!=!!?!!!7&amp;%6M:7.U=G^N:82F=CZM&gt;G.M98.T!!!027RF9X2S&lt;WVF&gt;'6S)'FO!$"!=!!?!!!7&amp;&amp;*F972J&lt;G&gt;4&gt;'&amp;U:3ZM&gt;G.M98.T!!!05G6B:'FO:V.U982F)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!#!!*!A!!?!!!$1A!!!!!!!!.#A!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!A!!!#1!!!!!!%!#A!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+	</Item>
 </LVClass>
