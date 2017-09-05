@@ -15,6 +15,8 @@
 			<Item Name="test.vi" Type="VI" URL="../Test/test.vi"/>
 			<Item Name="test2.vi" Type="VI" URL="../Test/test2.vi"/>
 			<Item Name="testGetRange.vi" Type="VI" URL="../Test/testGetRange.vi"/>
+			<Item Name="View.vi" Type="VI" URL="../View.vi"/>
+			<Item Name="Plot.vi" Type="VI" URL="../Plot.vi"/>
 		</Item>
 		<Item Name="Keithley" Type="Folder">
 			<Item Name="Parse Readings.vi" Type="VI" URL="../Keithley/Parse Readings.vi"/>
