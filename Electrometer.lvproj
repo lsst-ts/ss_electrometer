@@ -28,7 +28,9 @@
 			<Item Name="ConfiguringState.lvclass" Type="LVClass" URL="../Electrometer/State/ConfiguringState.lvclass"/>
 		</Item>
 		<Item Name="Electrometer.lvclass" Type="LVClass" URL="../Electrometer/Electrometer.lvclass"/>
-		<Item Name="ElectrometerConfiguration.lvclass" Type="LVClass" URL="../ElectrometerConfiguration/ElectrometerConfiguration.lvclass"/>
+		<Item Name="ElectrometerCOMConfiguration.lvclass" Type="LVClass" URL="../ElectrometerConfiguration/ElectrometerCOMConfiguration.lvclass"/>
+		<Item Name="ElectrometerInternalConfiguration.lvclass" Type="LVClass" URL="../ElectrometerConfiguration/ElectrometerInternalConfiguration.lvclass"/>
+		<Item Name="ElectrometerController.lvclass" Type="LVClass" URL="../ElectrometerController/ElectrometerController.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
