@@ -35,13 +35,13 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 	<Item Name="getState.vi" Type="VI" URL="../ReadyState/getState.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;'!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#^!&amp;A!%"W2F:G&amp;V&lt;(1&amp;=G6B:(E(=G6B:'FO:QND&lt;WZG;7&gt;V=GFO:Q!&amp;5X2B&gt;'5!,E"Q!"Y!!"135G6B:(F4&gt;'&amp;U:3ZM&gt;G.M98.T!!!/5G6B:(F4&gt;'&amp;U:3"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!,%"Q!"Y!!"135G6B:(F4&gt;'&amp;U:3ZM&gt;G.M98.T!!!.5G6B:(F4&gt;'&amp;U:3"J&lt;A"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!)!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!E!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;R!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;I!]&gt;86!0U!!!!#&amp;%6M:7.U=G^N:82F=CZM&gt;G.M98.T%7FO&gt;'6S&lt;G&amp;M5X2B&gt;'5O9X2M!#N!&amp;A!$#U.P&lt;G:J:X6S;7ZH"6*F972Z"V*F972J&lt;G=!"6.U982F!#Z!=!!?!!!5%F*F972Z5X2B&gt;'5O&lt;(:D&lt;'&amp;T=Q!!$F*F972Z5X2B&gt;'5A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#R!=!!?!!!5%F*F972Z5X2B&gt;'5O&lt;(:D&lt;'&amp;T=Q!!$6*F972Z5X2B&gt;'5A;7Y!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A#!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!*!!!!!!!1!*!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">33554432</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082917376</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
 	</Item>
 	<Item Name="performZeroCalib.vi" Type="VI" URL="../ReadyState/performZeroCalib.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'F!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!Q`````Q6397ZH:1!S1(!!(A!!&amp;B2&amp;&lt;'6D&gt;(*P&lt;76U:8)O&lt;(:D&lt;'&amp;T=Q!!%%6M:7.U=G^N:82F=C"P&gt;81!!#Z!=!!?!!!5%F*F972Z5X2B&gt;'5O&lt;(:D&lt;'&amp;T=Q!!$F*F972Z5X2B&gt;'5A&lt;X6U!!!%!!!!#U!$!!2.&lt;W2F!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!".!#A!.)%FO=(6U)&amp;*B&lt;G&gt;F)!!Q1(!!(A!!&amp;B2&amp;&lt;'6D&gt;(*P&lt;76U:8)O&lt;(:D&lt;'&amp;T=Q!!$U6M:7.U=G^N:82F=C"J&lt;A!M1(!!(A!!&amp;"*3:7&amp;E?6.U982F,GRW9WRB=X-!!!V3:7&amp;E?6.U982F)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"Q!(!!A!"Q!*!!I!#Q!-!Q!!?!!!$1A!!!E!!!!.#A!!D1M!!!!!!!!!!!!!#!!!!!!!!!!+!!!!#!!!!!I!!!#1!!!!!!%!$1!!!!!</Property>
