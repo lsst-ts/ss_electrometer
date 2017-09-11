@@ -32,6 +32,7 @@
 		<Item Name="ElectrometerCOMConfiguration.lvclass" Type="LVClass" URL="../ElectrometerConfiguration/ElectrometerCOMConfiguration.lvclass"/>
 		<Item Name="ElectrometerInternalConfiguration.lvclass" Type="LVClass" URL="../ElectrometerConfiguration/ElectrometerInternalConfiguration.lvclass"/>
 		<Item Name="ElectrometerController.lvclass" Type="LVClass" URL="../ElectrometerController/ElectrometerController.lvclass"/>
+		<Item Name="Global 1.vi" Type="VI" URL="../Test/Global 1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
