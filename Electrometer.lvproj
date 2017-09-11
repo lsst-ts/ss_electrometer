@@ -27,6 +27,7 @@
 			<Item Name="ReadingState.lvclass" Type="LVClass" URL="../Electrometer/State/ReadingState.lvclass"/>
 			<Item Name="ConfiguringState.lvclass" Type="LVClass" URL="../Electrometer/State/ConfiguringState.lvclass"/>
 		</Item>
+		<Item Name="Errors" Type="Folder"/>
 		<Item Name="Electrometer.lvclass" Type="LVClass" URL="../Electrometer/Electrometer.lvclass"/>
 		<Item Name="ElectrometerCOMConfiguration.lvclass" Type="LVClass" URL="../ElectrometerConfiguration/ElectrometerCOMConfiguration.lvclass"/>
 		<Item Name="ElectrometerInternalConfiguration.lvclass" Type="LVClass" URL="../ElectrometerConfiguration/ElectrometerInternalConfiguration.lvclass"/>
