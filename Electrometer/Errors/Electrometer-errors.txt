@@ -3,13 +3,35 @@
 <nicomment>
 This file contains the list of errors that can happen in the electrometer.
 
+
 <nifamily familyname="ElectrometerErrors" displayname="ElectrometerErrors">
 </nifamily>
 </nicomment>
+<nierror code="7301">
+Hardware error: query error
+</nierror>
 <nierror code="7302">
-COM Port not found for the electrometer.
+Hardware error: Device out of memory
 </nierror>
 <nierror code="7303">
-
+Hardware error: Internal data problem
+</nierror>
+<nierror code="7304">
+Hardware error: Execution error
+</nierror>
+<nierror code="7305">
+Hardware error: Invalid data 
+</nierror>
+<nierror code="7306">
+Hardware error: Safety problem
+</nierror>
+<nierror code="7307">
+Hardware error: Configuration error
+</nierror>
+<nierror code="7308">
+Hardware error: Communication error
+</nierror>
+<nierror code="7309">
+Hardware error: Unknown error
 </nierror>
 </nidocument>
