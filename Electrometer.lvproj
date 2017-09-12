@@ -17,6 +17,7 @@
 			<Item Name="testGetRange.vi" Type="VI" URL="../Test/testGetRange.vi"/>
 			<Item Name="View.vi" Type="VI" URL="../View.vi"/>
 			<Item Name="createEvents.vi" Type="VI" URL="../createEvents.vi"/>
+			<Item Name="testError.vi" Type="VI" URL="../ElectrometerError/testError.vi"/>
 		</Item>
 		<Item Name="Keithley" Type="Folder">
 			<Item Name="Parse Readings.vi" Type="VI" URL="../Keithley/Parse Readings.vi"/>
@@ -27,12 +28,15 @@
 			<Item Name="ReadingState.lvclass" Type="LVClass" URL="../Electrometer/State/ReadingState.lvclass"/>
 			<Item Name="ConfiguringState.lvclass" Type="LVClass" URL="../Electrometer/State/ConfiguringState.lvclass"/>
 		</Item>
-		<Item Name="Errors" Type="Folder"/>
+		<Item Name="Errors" Type="Folder">
+			<Item Name="error_list.csv" Type="Document" URL="../error_list.csv"/>
+		</Item>
 		<Item Name="Electrometer.lvclass" Type="LVClass" URL="../Electrometer/Electrometer.lvclass"/>
 		<Item Name="ElectrometerCOMConfiguration.lvclass" Type="LVClass" URL="../ElectrometerConfiguration/ElectrometerCOMConfiguration.lvclass"/>
 		<Item Name="ElectrometerInternalConfiguration.lvclass" Type="LVClass" URL="../ElectrometerConfiguration/ElectrometerInternalConfiguration.lvclass"/>
 		<Item Name="ElectrometerController.lvclass" Type="LVClass" URL="../ElectrometerController/ElectrometerController.lvclass"/>
 		<Item Name="Global 1.vi" Type="VI" URL="../Test/Global 1.vi"/>
+		<Item Name="ElectrometerError.lvclass" Type="LVClass" URL="../ElectrometerError/ElectrometerError.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
@@ -119,6 +123,16 @@
 				<Item Name="ex_subExcelFileWrite.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/ExFileWriteBlock.llb/ex_subExcelFileWrite.vi"/>
 				<Item Name="ex_FileFormats.ctl" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ExFile.llb/ex_FileFormats.ctl"/>
 				<Item Name="Waveform Array To Dynamic.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/transition.llb/Waveform Array To Dynamic.vi"/>
+				<Item Name="Find First Error.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find First Error.vi"/>
+				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
+				<Item Name="compatReadText.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatReadText.vi"/>
+				<Item Name="Read File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read File+ (string).vi"/>
+				<Item Name="Open File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Open File+.vi"/>
+				<Item Name="Read Lines From File (with error IO).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Lines From File (with error IO).vi"/>
+				<Item Name="Read Delimited Spreadsheet (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet (string).vi"/>
+				<Item Name="Read Delimited Spreadsheet (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet (I64).vi"/>
+				<Item Name="Read Delimited Spreadsheet (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet (DBL).vi"/>
+				<Item Name="Read Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet.vi"/>
 			</Item>
 			<Item Name="GlobalVariables.vi" Type="VI" URL="../Electrometer/State/ReadingState/GlobalVariables.vi"/>
 		</Item>

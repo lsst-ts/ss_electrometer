@@ -1,0 +1,173 @@
+-430,Query deadlocked,7301,Hardware error: query error,Error
+-420,Query unterminated,7301,Hardware error: query error,Error
+-410,Query interrupted,7301,Hardware error: query error,Error
+-363,Input buffer overrun,7302,Hardware error: Device out of memory,Error
+-350,Queue overflow,7302,Hardware error: Device out of memory,Error
+-314,Save/recall memory lost,7302,Hardware error: Device out of memory,Error
+-259,Expression error,7303,Hardware error: Internal data problem,Error
+-241,Hardware missing,7303,Hardware error: Internal data problem,Error
+-230,Data corrupt or stale,7303,Hardware error: Internal data problem,Error
+-225,Out of memory,7303,Hardware error: Internal data problem,Error
+-224,Illegal parameter value,7303,Hardware error: Internal data problem,Error
+-223,Too much data,7303,Hardware error: Internal data problem,Error
+-222,Parameter data out of range,7303,Hardware error: Internal data problem,Error
+-221,Settings conflict,7303,Hardware error: Internal data problem,Error
+-220,Parameter error,7303,Hardware error: Internal data problem,Error
+-215,Arm deadlock,7304,Hardware error: Execution error,Error
+-214,Trigger deadlock,7304,Hardware error: Execution error,Error
+-213,Init ignored,7304,Hardware error: Execution error,Error
+-212,Arm ignored,7304,Hardware error: Execution error,Error
+-211,Trigger ignored,7304,Hardware error: Execution error,Error
+-210,Trigger error,7304,Hardware error: Execution error,Error
+-203,Command protected,7304,Hardware error: Execution error,Error
+-200,Execution error,7304,Hardware error: Execution error,Error
+-171,Invalid expression,7305,Hardware error: Invalid data ,Error
+-170,Expression error,7305,Hardware error: Invalid data ,Error
+-161,Invalid block data,7305,Hardware error: Invalid data ,Error
+-160,Block data error,7305,Hardware error: Invalid data ,Error
+-154,String too long,7305,Hardware error: Invalid data ,Error
+-151,Invalid string data,7305,Hardware error: Invalid data ,Error
+-150,String data error,7305,Hardware error: Invalid data ,Error
+-148,Character data not allowed,7305,Hardware error: Invalid data ,Error
+-144,Character data too long,7305,Hardware error: Invalid data ,Error
+-141,Invalid character data,7305,Hardware error: Invalid data ,Error
+-140,Character data error,7305,Hardware error: Invalid data ,Error
+-124,Too many digits,7305,Hardware error: Invalid data ,Error
+-123,Exponent too large,7305,Hardware error: Invalid data ,Error
+-121,Invalid character in number,7305,Hardware error: Invalid data ,Error
+-120,Numeric data error,7305,Hardware error: Invalid data ,Error
+-113,Undefined header,7305,Hardware error: Invalid data ,Error
+-112,Program mnemonic too long,7305,Hardware error: Invalid data ,Error
+-111,Header separator error,7305,Hardware error: Invalid data ,Error
+-110,Command header error,7305,Hardware error: Invalid data ,Error
+-109,Missing parameter,7305,Hardware error: Invalid data ,Error
+-108,Parameter not allowed,7305,Hardware error: Invalid data ,Error
+-105,GET not allowed,7305,Hardware error: Invalid data ,Error
+-104,Data type error,7305,Hardware error: Invalid data ,Error
+-102,Syntax error,7305,Hardware error: Invalid data ,Error
+-101,Invalid character,7305,Hardware error: Invalid data ,Error
+-100,Command error,7305,Hardware error: Invalid data ,Error
+0,No error,0,Done,No error
+101,Operation complete,0,Hardware warning: Busy,Warning
+121,Device calibrating,0,Hardware warning: Busy,Warning
+122,Device settling,0,Hardware warning: Busy,Warning
+123,Device ranging,0,Hardware warning: Busy,Warning
+124,Device sweeping,0,Hardware warning: Busy,Warning
+125,Measuring event,0,Hardware warning: Busy,Warning
+126,Device calculating,0,Hardware warning: Busy,Warning
+161,Program running,0,Hardware warning: Busy,Warning
+171,Waiting in trigger layer,0,Hardware warning: Busy,Warning
+172,Waiting in arm layer 1,0,Hardware warning: Busy,Warning
+173,Waiting in arm layer 2,0,Hardware warning: Busy,Warning
+174,Re-entering idle layer,0,Hardware warning: Busy,Warning
+301,Reading overflow,0,Hardware warning: Out of limit,Warning
+302,Low limit 1 event,0,Hardware warning: Out of limit,Warning
+303,High limit 1 event,0,Hardware warning: Out of limit,Warning
+304,Low limit 2 event,0,Hardware warning: Out of limit,Warning
+305,High limit 2 event,0,Hardware warning: Out of limit,Warning
+306,Reading available,0,Done,No error
+307,Reading underflow,0,Hardware warning: Out of limit,Warning
+308,Buffer available,0,Done,No error
+309,Buffer half full,0,Hardware warning: Out of limit,Warning
+310,Buffer full,0,Hardware warning: Out of limit,Warning
+311,Test Sequence Measurement Done,0,Hardware warning: Busy,Warning
+312,Buffer Pretriggered,7305,Hardware error: Invalid data ,Error
+313,Reading out of limit,0,Hardware warning: Out of limit,Warning
+314,8009 fixture lid open,7306,Hardware error: Safety problem,Error
+315,V-source compliance detected,7307,Hardware error: Configuration error,Error
+320,Buffer and format element mismatch,7307,Hardware error: Configuration error,Error
+321,Buffer sizing error; set to MAX,7307,Hardware error: Configuration error,Error
+322,Buffer sizing error; set to MIN,7307,Hardware error: Configuration error,Error
+350,2 V offset out of specification,0,Hardware warning: Limits configuration error,Warning
+351,2 V positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+352,2 V negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+353,20 V offset out of specification,0,Hardware warning: Limits configuration error,Warning
+354,20 V positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+355,20 V negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+356,200 V offset out of specification,0,Hardware warning: Limits configuration error,Warning
+357,200 V positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+358,200 V negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+359,20 pA offset out of specification,0,Hardware warning: Limits configuration error,Warning
+360,20 pA positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+361,20 pA negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+362,200 pA offset out of specification,0,Hardware warning: Limits configuration error,Warning
+363,200 pA positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+364,200 pA negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+365,2 nA offset out of specification,0,Hardware warning: Limits configuration error,Warning
+366,2 nA positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+367,2 nA negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+368,20 nA offset out of specification,0,Hardware warning: Limits configuration error,Warning
+369,20 nA positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+370,20 nA negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+371,200 nA offset out of specification,0,Hardware warning: Limits configuration error,Warning
+372,200 nA positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+373,200 nA negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+374,2 ?A offset out of specification,0,Hardware warning: Limits configuration error,Warning
+375,2 ?A positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+376,2 ?A negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+377,20 ?A offset out of specification,0,Hardware warning: Limits configuration error,Warning
+378,20 ?A positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+379,20 ?A negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+380,200 ?A offset out of specification,0,Hardware warning: Limits configuration error,Warning
+381,200 ?A positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+382,200 ?A negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+383,2 mA offset out of specification,0,Hardware warning: Limits configuration error,Warning
+384,2 mA positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+385,2 mA negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+386,20 mA offset out of specification,0,Hardware warning: Limits configuration error,Warning
+387,20 mA positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+388,20 mA negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+389,2 nC positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+390,2 nC negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+391,20 nC positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+392,20 nC negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+393,200 nC positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+394,200 nC negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+395,2 ?C positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+396,2 ?C negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+397,Charge zero excessive,0,Hardware warning: Limits configuration error,Warning
+399,Temp offset out of specification,0,Hardware warning: Limits configuration error,Warning
+400,Temp gain out of specification,0,Hardware warning: Limits configuration error,Warning
+410,Humidity offset out of specification,0,Hardware warning: Limits configuration error,Warning
+412,Humidity gain out of specification,0,Hardware warning: Limits configuration error,Warning
+413,Int. Temp out of specification,0,Hardware warning: Limits configuration error,Warning
+415,VSRC 100 V offset out of specification,0,Hardware warning: Limits configuration error,Warning
+416,VSRC 100 V positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+417,VSRC 100 V negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+418,VSRC 1000 V offset out of specification,0,Hardware warning: Limits configuration error,Warning
+419,VSRC 1000 V positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
+420,VSRC 1000 V negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
+421,Current offset not converging,0,Hardware warning: Limits configuration error,Warning
+422,Voltage offset not converging,0,Hardware warning: Limits configuration error,Warning
+423,Date of calibration not set,0,Hardware warning: Calibration data invalid,Warning
+424,Next date of calibration not set,0,Hardware warning: Calibration data invalid,Warning
+425,Calibration data invalid,0,Hardware warning: Calibration data invalid,Warning
+426,Not permitted with calibration locked,0,Hardware warning: Calibration data invalid,Warning
+427,Not permitted with calibration unlocked,0,Hardware warning: Calibration data invalid,Warning
+510,Reading buffer data lost,7307,Hardware error: Configuration error,Error
+511,GPIB address lost,7307,Hardware error: Configuration error,Error
+512,Power-on state lost,7307,Hardware error: Configuration error,Error
+514,DC calibration data lost,7307,Hardware error: Configuration error,Error
+515,Calibration dates lost,7307,Hardware error: Configuration error,Error
+516,Calibration tables lost,7307,Hardware error: Configuration error,Error
+610,Questionable calibration,7307,Hardware error: Configuration error,Error
+611,Questionable temperature,7307,Hardware error: Configuration error,Error
+612,Questionable humidity,7307,Hardware error: Configuration error,Error
+613,Questionable voltage,7307,Hardware error: Configuration error,Error
+614,Questionable current,7307,Hardware error: Configuration error,Error
+615,Questionable ohms,7307,Hardware error: Configuration error,Error
+616,Questionable charge,7307,Hardware error: Configuration error,Error
+617,Questionable test sequence,7307,Hardware error: Configuration error,Error
+618,Resistivity: current out of limits,0,Hardware warning: Calibration data invalid,Warning
+700,Low battery detected,0,Hardware warning: Low battery,Warning
+800,RS-232 framing error detected,0,Hardware warning: Wrong command,Warning
+802,RS-232 overrun detected,0,Hardware warning: RS-232 overrun detected,Warning
+803,RS-232 break detected,0,Hardware warning: Wrong command,Warning
+805,Invalid system communication,7308,Hardware error: Communication error,Error
+808,ASCII only with RS-232,0,Hardware warning: Wrong command,Warning
+809,Not allowed with RS-232,0,Hardware warning: Wrong command,Warning
+850,Invalid sequence settings,7308,Hardware error: Communication error,Error
+851,Test sequence running,0,Hardware warning: Busy,Warning
+860,Interlock violation error,7307,Hardware error: Configuration error,Error
+861,Vsource limit too low for auto-ohms,7307,Hardware error: Configuration error,Error
+900,Internal system error,7309,Hardware error: Unknown error,Error
