@@ -34,4 +34,10 @@ Hardware error: Communication error
 <nierror code="7309">
 Hardware error: Unknown error
 </nierror>
+<nierror code="7310">
+Communication error: Electrometer not found
+</nierror>
+<nierror code="7311">
+File not found: File to describe errors not found, possible solution is add path to configuration file
+</nierror>
 </nidocument>
