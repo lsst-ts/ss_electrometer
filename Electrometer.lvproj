@@ -110,6 +110,9 @@
 			<Item Name="Global 1.vi" Type="VI" URL="../Test/Global 1.vi"/>
 			<Item Name="ConfigurationTypedefs.lvlib" Type="Library" URL="../../ts_electrometeruserevents/ConfigurationTC/ConfigurationTypedefs/ConfigurationTypedefs.lvlib"/>
 			<Item Name="Settings.lvlib" Type="Library" URL="../../ts_electrometeruserevents/ComponentTemplateCore/Settings/SettingsTC/Settings.lvlib"/>
+			<Item Name="ElectrometerTypedefs.lvlib" Type="Library" URL="../../ts_electrometeruserevents/Typedefs/ElectrometerTypedefs.lvlib"/>
+			<Item Name="ComponentStateValues.ctl" Type="VI" URL="../../ts_electrometeruserevents/ComponentTemplateCore/ComponentModel/ComponentModel/Typedefs/ComponentStateValues.ctl"/>
+			<Item Name="SALLV_calibrationElectrometer.lvlib" Type="Library" URL="../../ts_sallv_calibrationelectrometer/SALLV_calibrationElectrometer.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
