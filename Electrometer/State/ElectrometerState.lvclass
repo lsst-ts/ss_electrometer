@@ -77,7 +77,17 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1082139136</Property>
 		</Item>
 	</Item>
-	<Item Name="Protected" Type="Folder"/>
+	<Item Name="Protected" Type="Folder">
+		<Item Name="readTemperature.vi" Type="VI" URL="../readTemperature.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(*!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!A(E6M:7.U=G^N:82F=E.P&lt;H2S&lt;WRM:8)O&lt;(:D&lt;'&amp;T=Q!!'E6M:7.U=G^N:82F=E.P&lt;H2S&lt;WRM:8)A&lt;X6U!!![1(!!(A!!'RF&amp;&lt;'6D&gt;(*P&lt;76U:8*4&gt;'&amp;U:3ZM&gt;G.M98.T!"6&amp;&lt;'6D&gt;(*P&lt;76U:8*4&gt;'&amp;U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"%1(!!(A!!)"Z&amp;&lt;'6D&gt;(*P&lt;76U:8*$&lt;WZU=G^M&lt;'6S,GRW9WRB=X-!!"F&amp;&lt;'6D&gt;(*P&lt;76U:8*$&lt;WZU=G^M&lt;'6S)'FO!$J!=!!?!!!&lt;'56M:7.U=G^N:82F=F.U982F,GRW9WRB=X-!&amp;%6M:7.U=G^N:82F=F.U982F)'FO!!"C!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!A!#1-!!(A!!!U)!!!!!!!!$1I!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!+!!!!%!!!$A!!#Q!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		</Item>
+	</Item>
 	<Item Name="Public" Type="Folder">
 		<Item Name="addIntensity.vi" Type="VI" URL="../addIntensity.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%K!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!&lt;'56M:7.U=G^N:82F=F.U982F,GRW9WRB=X-!#6.U982F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"&amp;!#A!,&lt;'&amp;T&gt;%VF98.V=G5!,E"Q!"Y!!"M:27RF9X2S&lt;WVF&gt;'6S5X2B&gt;'5O&lt;(:D&lt;'&amp;T=Q!)5X2B&gt;'5A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!)!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!A!!!#3!!!!!!%!#1!!!!!</Property>
