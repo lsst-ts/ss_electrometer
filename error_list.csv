@@ -75,9 +75,9 @@
 313,Reading out of limit,0,Hardware warning: Out of limit,Warning
 314,8009 fixture lid open,7306,Hardware error: Safety problem,Error
 315,V-source compliance detected,7307,Hardware error: Configuration error,Error
-320,Buffer and format element mismatch,7307,Hardware error: Configuration error,Error
-321,Buffer sizing error; set to MAX,7307,Hardware error: Configuration error,Error
-322,Buffer sizing error; set to MIN,7307,Hardware error: Configuration error,Error
+320,Buffer and format element mismatch,7307,Hardware error: Buffer and format element mismatch,Error
+321,Buffer sizing error; set to MAX,7307,Hardware error: Buffer sizing error; set to MAX,Error
+322,Buffer sizing error; set to MIN,7307,Hardware error: CBuffer sizing error; set to MIN,Error
 350,2 V offset out of specification,0,Hardware warning: Limits configuration error,Warning
 351,2 V positive gain out of specification,0,Hardware warning: Limits configuration error,Warning
 352,2 V negative gain out of specification,0,Hardware warning: Limits configuration error,Warning
@@ -150,14 +150,14 @@
 514,DC calibration data lost,7307,Hardware error: Configuration error,Error
 515,Calibration dates lost,7307,Hardware error: Configuration error,Error
 516,Calibration tables lost,7307,Hardware error: Configuration error,Error
-610,Questionable calibration,7307,Hardware error: Configuration error,Error
-611,Questionable temperature,7307,Hardware error: Configuration error,Error
-612,Questionable humidity,7307,Hardware error: Configuration error,Error
-613,Questionable voltage,7307,Hardware error: Configuration error,Error
-614,Questionable current,7307,Hardware error: Configuration error,Error
-615,Questionable ohms,7307,Hardware error: Configuration error,Error
-616,Questionable charge,7307,Hardware error: Configuration error,Error
-617,Questionable test sequence,7307,Hardware error: Configuration error,Error
+610,Questionable calibration,0,Hardware warning: Questionable calibration,warning
+611,Questionable temperature,0,Hardware warning: Questionable temperature,warning
+612,Questionable humidity,0,Hardware warning: Questionable humidity,warning
+613,Questionable voltage,0,Hardware warning: Questionable voltage,warning
+614,Questionable current,0,Hardware warning: Questionable current,warning
+615,Questionable ohms,0,Hardware warning: Questionable ohms,warning
+616,Questionable charge,0,Hardware warning: Questionable charge,warning
+617,Questionable test sequence,0,Hardware warning: Questionable test sequence,warning
 618,Resistivity: current out of limits,0,Hardware warning: Calibration data invalid,Warning
 700,Low battery detected,0,Hardware warning: Low battery,Warning
 800,RS-232 framing error detected,0,Hardware warning: Wrong command,Warning
