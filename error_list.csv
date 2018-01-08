@@ -1,9 +1,9 @@
 -430,Query deadlocked,7301,Hardware error: query error,Error
 -420,Query unterminated,7301,Hardware error: query error,Error
 -410,Query interrupted,7301,Hardware error: query error,Error
--363,Input buffer overrun,7302,Hardware error: Device out of memory,Error
--350,Queue overflow,7302,Hardware error: Device out of memory,Error
--314,Save/recall memory lost,7302,Hardware error: Device out of memory,Error
+-363,Input buffer overrun,0,Hardware warning: Input buffer overrun,Warning
+-350,Queue overflow,0,Hardware warning: Queue overflow,Warning
+-314,Save/recall memory lost,0,Hardware error: Save/recall memory lost,Warning
 -259,Expression error,7303,Hardware error: Internal data problem,Error
 -241,Hardware missing,7303,Hardware error: Internal data problem,Error
 -230,Data corrupt or stale,7303,Hardware error: Internal data problem,Error
