@@ -26,13 +26,13 @@
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Item Name="getState.vi" Type="VI" URL="../ConfiguringState/getState.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)7!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!/=!]&gt;9KN.I!!!!#'E6M:7.U=G^N:82F=F2Z='6E:7:T,GRW&lt;'FC$F.U982F6G&amp;M&gt;75O9X2M!,6!&amp;A!+#%^G:F.U982F$&amp;.U97ZE9HF4&gt;'&amp;U:1V%;8.B9GRF:&amp;.U982F$%6O97*M:724&gt;'&amp;U:1J'986M&gt;&amp;.U982F&amp;V.F&gt;%2V=G&amp;U;7^O5G6B:'FO:V.U982F%%.P&lt;G:J:X6S;7ZH5X2B&gt;'5+5G6B:(F4&gt;'&amp;U:2*.97ZV97R3:7&amp;E;7ZH5X2B&gt;'5;67ZU;7R*&lt;H2F&lt;H2J=XF3:7&amp;E;7ZH5X2B&gt;'5!#F.U982F6G&amp;M&gt;75!!$J!=!!?!!!;'%.P&lt;G:J:X6S;7ZH5X2B&gt;'5O&lt;(:D&lt;'&amp;T=Q!!&amp;%.P&lt;G:J:X6S;7ZH5X2B&gt;'5A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$B!=!!?!!!;'%.P&lt;G:J:X6S;7ZH5X2B&gt;'5O&lt;(:D&lt;'&amp;T=Q!!%U.P&lt;G:J:X6S;7ZH5X2B&gt;'5A;7Y!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A#!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!*!!!!!!!1!*!!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)9!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!/E!]&gt;=L02M!!!!#'E6M:7.U=G^N:82F=F2Z='6E:7:T,GRW&lt;'FC$F.U982F6G&amp;M&gt;75O9X2M!,&gt;!&amp;A!,!!V%;8.B9GRF:&amp;.U982F$%6O97*M:724&gt;'&amp;U:1J'986M&gt;&amp;.U982F#%^G:F.U982F$&amp;.U97ZE9HF4&gt;'&amp;U:2&gt;4:82%&gt;8*B&gt;'FP&lt;F*F972J&lt;G&gt;4&gt;'&amp;U:2"$&lt;WZG;7&gt;V=GFO:V.U982F#F*F972Z5X2B&gt;'5347&amp;O&gt;7&amp;M5G6B:'FO:V.U982F'F6O&gt;'FM37ZU:7ZU;8.Z5G6B:'FO:V.U982F!!!+5X2B&gt;'6797RV:1!!/E"Q!"Y!!"I91W^O:GFH&gt;8*J&lt;G&gt;4&gt;'&amp;U:3ZM&gt;G.M98.T!!!51W^O:GFH&gt;8*J&lt;G&gt;4&gt;'&amp;U:3"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!/%"Q!"Y!!"I91W^O:GFH&gt;8*J&lt;G&gt;4&gt;'&amp;U:3ZM&gt;G.M98.T!!!41W^O:GFH&gt;8*J&lt;G&gt;4&gt;'&amp;U:3"J&lt;A"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!)!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!E!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1350574592</Property>
 		</Item>
 	</Item>
 </LVClass>
