@@ -23,7 +23,7 @@
 			<Item Name="Enable Resistance Damping.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 6517/Public/Action-Status/Enable Resistance Damping.vi"/>
 			<Item Name="Enable Zero Check.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 6517/Public/Action-Status/Enable Zero Check.vi"/>
 			<Item Name="Reset Readings Number.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 6517/Public/Action-Status/Reset Readings Number.vi"/>
-			<Item Name="Query Safety Interlock.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 6517/Public/Action-Status/Query Safety Interlock.vi"/>
+			<Item Name="Query Safety Interlock.vi" Type="VI" URL="../Public/Action-Status/Query Safety Interlock.vi"/>
 			<Item Name="Save Recall Instrument Setup.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 6517/Public/Action-Status/Save Recall Instrument Setup.vi"/>
 			<Item Name="Clear IO Port.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 6517/Public/Action-Status/Clear IO Port.vi"/>
 			<Item Name="Clear Input Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 6517/Public/Action-Status/Clear Input Trigger.vi"/>
@@ -118,7 +118,7 @@
 			<Item Name="Read Trace Data.vi" Type="VI" URL="../Public/Data/Read Trace Data.vi"/>
 			<Item Name="Read.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 6517/Public/Data/Read.vi"/>
 			<Item Name="Read Relative Calculation.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 6517/Public/Data/Read Relative Calculation.vi"/>
-			<Item Name="Read Trace Buffer Statistics.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 6517/Public/Data/Read Trace Buffer Statistics.vi"/>
+			<Item Name="Read Trace Buffer Statistics.vi" Type="VI" URL="../Public/Data/Read Trace Buffer Statistics.vi"/>
 		</Item>
 		<Item Name="Utility" Type="Folder">
 			<Item Name="Utility.mnu" Type="Document" URL="/&lt;instrlib&gt;/Keithley 6517/Public/Utility/Utility.mnu"/>
