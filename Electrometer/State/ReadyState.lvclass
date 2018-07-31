@@ -105,14 +105,5 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 		</Item>
-		<Item Name="startReadUntilIntensity.vi" Type="VI" URL="../ReadyState/startReadUntilIntensity.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'Q!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!2E"Q!"Y!!#!?27RF9X2S&lt;WVF&gt;'6S1W^O&gt;(*P&lt;'RF=CZM&gt;G.M98.T!!!;27RF9X2S&lt;WVF&gt;'6S1W^O&gt;(*P&lt;'RF=C"P&gt;81!!!1!!!!O1(!!(A!!&amp;"*3:7&amp;E?6.U982F,GRW9WRB=X-!!!Z3:7&amp;E?6.U982F)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"%1(!!(A!!)"Z&amp;&lt;'6D&gt;(*P&lt;76U:8*$&lt;WZU=G^M&lt;'6S,GRW9WRB=X-!!"F&amp;&lt;'6D&gt;(*P&lt;76U:8*$&lt;WZU=G^M&lt;'6S)'FO!!^!#A!*37ZU:7ZT;82Z!#R!=!!?!!!5%F*F972Z5X2B&gt;'5O&lt;(:D&lt;'&amp;T=Q!!$6*F972Z5X2B&gt;'5A;7Y!6!$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#!!*!!I$!!"Y!!!.#!!!$1E!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!+!!!!#!!!!*!!!!!!!1!,!!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
-		</Item>
 	</Item>
 </LVClass>
